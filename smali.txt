@@ -1,0 +1,27 @@
+1- the number of registers cannot be more than 15 or something around that 
+2- increase the local by 1 or 2 use a small number with (v) like (v1) or (v2)
+registers = locals + NUMBER_OF_PARAMETERS
+
+
+https://stackoverflow.com/questions/41165357/android-bytecode-value-of-some-variables-not-defined
+https://stackoverflow.com/questions/56074422/increase-local-registers-in-smali-and-use-new-register
+https://stackoverflow.com/questions/12648196/modifying-smali-files
+https://stackoverflow.com/questions/53289169/smali-logging-an-util-collection-arraylist
+https://yasoob.me/posts/reverse-engineering-android-apps-apktool/
+https://mobile-security.gitbook.io/mobile-security-testing-guide/android-testing-guide/0x05c-reverse-engineering-and-tampering
+https://exploitnetworking.com/en/security-en/rtcp-trivia-android-reverse-engineering
+https://www.save-editor.com/tools/wse_hex.html
+https://forum.xda-developers.com/t/app-hacked-camera-apk.860609/page-14#post-10980448
+https://medium.com/@xplodwild/reverse-engineering-of-a-mobile-game-part-2-they-updated-we-dumped-memory-27046efdfb85
+https://stackoverflow.com/questions/9609394/java-byte-array-contains-negative-numbers
+https://malacupa.com/2018/11/11/debug-decompiled-smali-code-in-android-studio-3.2.html
+https://crosp.net/blog/software-development/mobile/android/android-reverse-engineering-debugging-smali-using-smalidea/
+https://medium.com/@ghxst.dev/static-analysis-and-debugging-on-android-using-smalidea-jdwp-and-adb-b073e6b9ae48
+https://www.fatalerrors.org/a/analysis-of-a-signature-algorithm.html
+https://mobile-security.gitbook.io/mobile-security-testing-guide/android-testing-guide/0x05e-testing-cryptography
+https://yasoob.me/posts/reverse-engineering-nike-run-club-using-frida-android/
+https://github.com/dwisiswant0/apkleaks
+https://reverseengineering.stackexchange.com/questions/23046/adding-my-own-logging-function-in-smali
+http://paulsec.github.io/posts/android-smali-primer/
+https://github.com/JesusFreke/smalidea
+https://samsclass.info/128/proj/smali-trojan.htm
