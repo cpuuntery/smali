@@ -7,7 +7,7 @@ https://onlinehextools.com/convert-decimal-to-hex
 
 
 
-###########################################Not some much sure about it#############################################
+###########################################Not so much sure about it#############################################
 The constant numbers in smali are in [LITTLE ENDIAN] most website assume the hex are in [BIG ENDIAN] which is wrong
 
 This website is the only one I know that allow you to use [LITTLE ENDIAN]
