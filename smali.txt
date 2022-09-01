@@ -27,3 +27,6 @@ https://github.com/JesusFreke/smalidea
 https://samsclass.info/128/proj/smali-trojan.htm
 https://medium.com/swlh/defeating-android-root-detection-with-smali-patching-46c082c27a81
 https://proandroiddev.com/how-i-hacked-an-android-app-for-a-premium-feature-d9ca74e797ad
+https://github.com/aktsk/apk-medit
+https://github.com/CalebFenton/simplify
+https://github.com/LoyieKing/Smalise
