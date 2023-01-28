@@ -30,3 +30,5 @@ https://proandroiddev.com/how-i-hacked-an-android-app-for-a-premium-feature-d9ca
 https://github.com/aktsk/apk-medit
 https://github.com/CalebFenton/simplify
 https://github.com/LoyieKing/Smalise
+https://github.com/httptoolkit/frida-android-unpinning
+
